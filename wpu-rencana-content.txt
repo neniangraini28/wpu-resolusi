@@ -3,9 +3,11 @@ RENCANA CONTENT WPU
 -Javascript
   *ES6
   *Frameworks javascript
-   ^Angular
-   ^React
+   ^View
+   ^React 
+-Struktur data dasar
 -PHP frameworks
  *Laravel
 -Interview
 -Vlogs
+-Python
